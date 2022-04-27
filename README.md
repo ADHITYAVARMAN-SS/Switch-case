@@ -1,2 +1,0 @@
-# Switch-case
-by adhityavarman 
